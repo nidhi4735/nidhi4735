@@ -1,8 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am [Anushka Verma]
+# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am Anushka Verma
 
 ## 🙋🏽‍♂️About Me
 
+- 💻 I am a Chemical Engineering undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Bachelor of Technology in my third year.
 - 🔭 I’m currently figuring out my way with Open source contributions.
 - 🌱 I’m currently learning **React Js** and DSA
 - 💬 Ask me about **Go**
